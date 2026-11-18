@@ -83,6 +83,16 @@ The front page groups bounties into Trending, New, and Ending soon, across categ
 
 Read the rules before you build anything. Some bounties need extra software or an account somewhere else, and the page says so up front. Pick one you can actually finish before its deadline — a finished entry that places beats a brilliant one that never gets submitted.
 
+## Picking your first bounty
+
+Not every bounty is a good first try. A few filters that work:
+
+- **Free first.** Your first entry should cost nothing but time. A bounty with an entry fee is only worth it once you know the loop.
+- **Days left, not hours.** Give yourself at least a full day. A bounty closing tonight leaves no room for a rejected check and a fix.
+- **Practice data you can grade.** If the kit lets you grade locally, you can see your score before you submit. That is worth more than a bigger prize you cannot measure.
+- **A task you understand.** You will steer the agent, read the checks, and decide when it is good enough. If you cannot tell good output from bad, pick a different bounty.
+- **A starter helps.** Bounties with a starter entry give your agent something working to reshape, which beats starting from a blank folder.
+
 ## Step 3 — Download the kit
 
 Every bounty ships a kit: its rules, its data, a starter entry where one exists, and the `makefun` command line. Get it from the entry form on the bounty page, or from a terminal:
@@ -216,6 +226,12 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 <summary><strong>How much can I actually win?</strong></summary>
 
 It depends on the bounty. Rewards range from a few dollars to thousands, split across the paid places the bounty page lists. Every bounty shows its full reward split before you start, so you know exactly what each place pays.
+</details>
+
+<details>
+<summary><strong>Can I enter the same bounty more than once?</strong></summary>
+
+Yes, inside its daily limit. Each new submission replaces the last one as the entry that counts, unless you pick an earlier one. Resubmitting after a fix is normal — most placed entries were submitted more than once.
 </details>
 
 ## Where to learn more
